@@ -106,7 +106,7 @@ python studenti_compatto.py --keep-originals
 Apri:
 
 ```
-workflow_studenti_compatto.ipynb
+workflow_studenti.ipynb
 ```
 
 ---
